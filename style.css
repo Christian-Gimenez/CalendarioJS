@@ -1,0 +1,76 @@
+#dia_actual {
+  background-color: green;
+  color: black;
+}
+
+body > div {
+  position: absolute;
+  width: 100%;
+}
+
+div div:first-child {
+  position: absolute;
+  right: 10px;
+  width: 35%;
+  height: 15%;
+}
+
+button {
+  border: none;
+  cursor: pointer;
+  background-color: green;
+  color: black;
+  font-weight: bold;
+  width: 20%;
+  height: 100%;
+  line-height: 2px;
+  font-size: 5vw;
+  
+}
+button:hover {
+  background-color: rgb(31, 31, 31);
+  color: green;
+}
+button:active {
+  background-color: black;
+  color: green;
+}
+
+table {
+  background-color: black;
+  padding-bottom: 10px;
+  color: green;
+  width: 100%;
+}
+
+caption {
+  background-color: black;
+  padding: 10px;
+  color:lightseagreen;
+  text-align: left;
+  font-size: 5vw;
+  font-family: "Arial";
+  font-weight: bold;
+
+}
+tr :last-child {
+  color: rgb(189, 33, 33);
+}
+th {
+  color: rgb(52, 52, 124);
+}
+td, th {
+  text-align: center;
+  font-size: 4vw;
+  border-right: 1px solid green;
+  font-family: "monospace";
+}
+
+.numero_semana, th:first-of-type {
+  color: gray;
+  border-right: none;
+}
+
+.numero_semana {
+  font-size: 23px;
+}
