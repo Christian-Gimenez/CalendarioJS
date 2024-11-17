@@ -44,4 +44,4 @@ showLove();
 If you'd like to connect, discuss web design, or share tips, feel free to reach out!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/christian-m-gp/)  
-- 🌟 [My GitHub](https://github.com/Christian-Gimenez-WebDev](https://github.com/Christian-Gimenez)
+- 🌟 [My GitHub](https://github.com/Christian-Gimenez-WebDev](https://github.com/Christian-Gimenez)) 
